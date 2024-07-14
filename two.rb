@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Soldier movement season camera.
 puts "Hello, World!"
+
+# Walk ever it trouble late glass.
+puts "Hello, World!"
