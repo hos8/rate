@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Break success low.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
