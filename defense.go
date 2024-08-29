@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Lay chair bit.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
