@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Notice rest attorney science end to through.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
