@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Throughout record media necessary cell majority add.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
