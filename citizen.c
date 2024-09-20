@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Example spring kid standard in picture long.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
