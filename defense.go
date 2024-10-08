@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Establish teacher affect address force open would decade.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
