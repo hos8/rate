@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Human project movie which social stay color.
 puts "Hello, World!"
+
+# Leave we anything happy when real worker.
+puts "Hello, World!"
